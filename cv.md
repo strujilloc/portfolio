@@ -43,16 +43,28 @@ Mechatronic Engineer specializing in backend software engineering, with a strong
 
 #### Research Assistant / Teacher Assistant, The University of Tokyo, May 2019 - August 2022
 
-- Developed a web application for agent-based simulation in Artisanal Mining, utilizing ReactJS for the frontend and Flask for the backend, enhancing research capabilities and facilitating data-driven decision-making.
-- Applied Machine Learning algorithms to forecast electricity demand, leveraging Azure ML and Python, and implemented data storage in Azure SQL database, contributing to optimized resource allocation and energy management strategies.
+- Developed a web application for agent-based simulation in artisanal mining, integrating ReactJS and Flask to enhance research capabilities and support data-driven decision-making.
+- Applied machine learning algorithms for forecasting electricity demand, utilizing Azure ML and Python, with data storage managed in Azure SQL database to optimize resource allocation and energy management.
+- Created interactive dashboards with Power BI for visualizing machine learning results, enabling stakeholders to discern patterns and make informed decisions.
+- Provided comprehensive support in statistical and predictive modeling techniques, focusing on Ordinary Least Squares (OLS) and various machine learning algorithms using Python and R, to enhance students' understanding and application skills.
+- Assisted in the development of course assignments for bachelor students, offering expertise in Java programming to improve learning outcomes and project success.
 
 #### Quality Assurance Engineer, CUMMINS PERU S.A.C., May 2015 - March 2018
 
-[Insert Responsibilities]
+- Analyzed historical engine repair data with Excel and Power BI to evaluate repair quality and pinpoint areas for improvement.
+- Implemented quality assurance protocols at each stage of the high-power motor repair process to ensure compliance with established standards and procedures.
+- Conducted technical investigations into operational incidents to identify root causes, collaborating with MRC staff to develop and monitor corrective action plans.
+- Managed the final approval process for each repaired engine prior to customer delivery, upholding the highest standards of product quality and customer satisfaction.
+- Organized monthly meetings with technical staff and MRC representatives to review operational incidents, confirm action plan implementation, and document continuous process improvement strategies.
 
 #### Project Engineer, ENERGIA PERUANA OPERACIONES S.A.C, April 2014 - May 2015
 
-[Insert Responsibilities]
+- Developed and executed work plans for equipment preparation tailored to customer requirements, ensuring project alignment and objectives were met.
+- Led project planning for generator installations using Work Breakdown Structure (WBS) methodologies to define timelines and deliverables from transportation to deployment.
+- Supervised project installations, coordinating with clients and contractors to ensure compliance with safety protocols and the generation of necessary operational documentation.
+- Collaborated with manufacturers to resolve quality issues in acquired power generation equipment, maintaining a commitment to product excellence and customer satisfaction.
+- Provided after-sales service support, working with maintenance teams to address client needs and maintain high service standards.
+- Prepared detailed installation budgets for generators, utilizing electrical plans and architectural drawings to accurately estimate project costs.
 
 ### Presentations and Papers
 
