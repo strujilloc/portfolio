@@ -1,0 +1,57 @@
+/* style.css */
+body {
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	background-color: #f4f9f9;
+	color: #333;
+	line-height: 1.6;
+	margin: 0;
+	padding: 0;
+}
+.container {
+	max-width: 1100px;
+	margin: auto;
+	overflow: hidden;
+	padding: 0 20px;
+}
+header {
+	background: #5d737e;
+	color: #fff;
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom: #3c4f5c 3px solid;
+}
+header a {
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+nav {
+	float: right;
+	margin-top: 10px;
+}
+nav a {
+	margin-left: 20px;
+}
+.about,
+.work,
+.education,
+.skills {
+	padding: 20px;
+	background: #eaeaea;
+	margin-bottom: 20px;
+	border-radius: 8px;
+}
+.work,
+.education {
+	background: #d9d9d9;
+}
+h1,
+h2,
+h3 {
+	color: #333;
+}
+.dynamic:hover {
+	background-color: #b1b1b1;
+	cursor: pointer;
+}

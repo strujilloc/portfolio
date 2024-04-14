@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Saul Trujillo Castillo - Portfolio</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<h1>Saul Trujillo Castillo</h1>
+				<nav>
+					<a href="#">Home</a> | <a href="#">Portfolio</a> |
+					<a href="#">Contact</a>
+				</nav>
+			</div>
+		</header>
+
+		<div class="container">
+			<section class="about">
+				<h2>Introduction</h2>
+				<p>
+					Mechatronic Engineer specializing in backend software engineering,
+					with a strong foundation in mechanical, electronic, and computer
+					engineering principles. Equipped with a Master's degree from The
+					University of Tokyo, conducting research in System Engineer Analysis.
+					Skilled in data analysis and process automation, leveraging
+					interdisciplinary expertise to develop innovative software solutions.
+					Proficient in backend development, with a focus on building scalable,
+					efficient, and secure systems to drive business objectives.
+				</p>
+			</section>
+
+			<section class="work">
+				<h2>Work Experience</h2>
+				<!-- Dynamic interaction example -->
+				<div class="dynamic" onclick="alert('More details coming soon!');">
+					<h3>Software Engineer, Recursive, October 2022 - Present</h3>
+					<p>
+						Engineered backend logic to seamlessly integrate Machine Learning
+						models with frontend requests, optimizing system performance and
+						user experience.
+					</p>
+				</div>
+				<!-- More work experiences -->
+			</section>
+
+			<section class="education">
+				<h2>Education</h2>
+				<p>
+					<strong>Ph.D. Student in Environmental Studies,</strong> 東京大学 (The
+					University of Tokyo) - Tokyo, Japan, 2021 - 2022
+				</p>
+				<!-- More education entries -->
+			</section>
+
+			<section class="skills">
+				<h2>Skills</h2>
+				<p>[Insert Skills]</p>
+			</section>
+		</div>
+
+		<script>
+			// Example of adding dynamic interaction with JavaScript
+			document
+				.querySelector(".dynamic")
+				.addEventListener("mouseover", function () {
+					this.style.backgroundColor = "#b3cce6";
+				});
+			document
+				.querySelector(".dynamic")
+				.addEventListener("mouseout", function () {
+					this.style.backgroundColor = "#e6f9ff";
+				});
+		</script>
+	</body>
+</html>
